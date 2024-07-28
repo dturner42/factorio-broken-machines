@@ -1,0 +1,9 @@
+{
+    "name": "broken-machines",
+    "version": "0.2.0",
+    "title": "Broken Machines",
+    "author": "Dan 'rootEth' Turner",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "This mod finds machines that haven't produced anything and therefore may be incorrectly configured and marks them."
+  }
